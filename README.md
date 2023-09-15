@@ -19,18 +19,18 @@ Before you begin, ensure you have met the following requirements:
 
 ## Screenshot of UI
 <div align="center">
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/a259e4c0-7c45-4733-9e2c-697fc131cf12" width="170" height="400" />
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/3f3302e5-19df-4c34-b3f5-a3f8dc6cc36a" width="170" height="400" />
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/e2f8132a-2441-4d91-a145-b11fb8688107" width="170" height="400" />
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/c51f873c-6266-484d-a41a-13579f35af3d" width="170" height="400" />
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/31cd5d6f-4776-4d0e-a2af-376a72294972" width="170" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/a259e4c0-7c45-4733-9e2c-697fc131cf12" width="160" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/3f3302e5-19df-4c34-b3f5-a3f8dc6cc36a" width="160" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/e2f8132a-2441-4d91-a145-b11fb8688107" width="160" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/c51f873c-6266-484d-a41a-13579f35af3d" width="160" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/31cd5d6f-4776-4d0e-a2af-376a72294972" width="160" height="400" />
 </div>
 <div align="center">
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/f589df52-fdac-483c-83c7-a1995d99625b" width="170" height="400" />
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/a6aa2744-e9a1-4f01-9644-d6bd06c10ee3" width="170" height="400" />
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/c67b175d-7a8b-4ac0-86d0-e3f87a19e799" width="170" height="400" />
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/481b21c3-cf4b-42e5-8fbc-c89beaa64047" width="170" height="400" />
-<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/57f9c1f9-850b-4250-ac8f-7f6d8e7b2c4d" width="170" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/f589df52-fdac-483c-83c7-a1995d99625b" width="160" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/a6aa2744-e9a1-4f01-9644-d6bd06c10ee3" width="160" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/c67b175d-7a8b-4ac0-86d0-e3f87a19e799" width="160" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/481b21c3-cf4b-42e5-8fbc-c89beaa64047" width="160" height="400" />
+<img src="https://github.com/rihamnazeer/SLGas-App/assets/90144970/57f9c1f9-850b-4250-ac8f-7f6d8e7b2c4d" width="160" height="400" />
 </div>
 
 ---
